@@ -39,8 +39,7 @@ Hardware & Software Requirements
         
         
 Process Flow Diagram
-
-       ![](Images/GoCoronaProcessDiagram.png)
+  ![](Images/GoCoronaProcessDiagram.png)
 
 
 Data Flow Diagram
